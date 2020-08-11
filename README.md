@@ -1,6 +1,6 @@
 # DwightTyping
 
-![Alt Text](https://tenor.com/view/dwight-office-typing-type-gif-10400818)
+![Alt Text](https://media1.tenor.com/images/7b15d558751bbc94a1b2199af4e6e073/tenor.gif)
 
 ### To Run:
 ```
